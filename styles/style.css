@@ -420,8 +420,6 @@ header {
     font-size: 22px;
     font-weight: 500;
     line-height: 140%;
-    letter-spacing: 2.2px;
-    text-transform: uppercase;
 }
 
 .move {
@@ -458,19 +456,6 @@ header {
 
 .btn1 {
     display: flex;
-    width: 191px;
-    padding: 15px 30px;
     justify-content: center;
     align-items: center;
-    gap: 10px;
-    border-radius: 62px;
-    background: #FFF;
-    border: none;
-}
-.btn1>a{
-    text-decoration: none;
-    color: #FF4948;
-    font-size: 22px;
-    font-weight: 500;
-    line-height: 140%;
 }
